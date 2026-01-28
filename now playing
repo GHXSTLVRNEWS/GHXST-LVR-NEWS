@@ -1,0 +1,4 @@
+<div class="now-playing">
+  <img src="assets/static.gif" width="20">
+  now playing: static + feedback
+</div>
