@@ -34,3 +34,34 @@
 </body>
 </html>
 <img src="assets/miw.jpg" class="article-img">
+<section class="comments">
+  <h2>comments</h2>
+
+  <div class="comment">
+    <img src="assets/icon1.gif" class="avatar">
+    <div class="comment-body">
+      <span class="user">xXsadkid420Xx</span>
+      <span class="time">2 hours ago</span>
+      <p>this song goes HARD miw never misses</p>
+    </div>
+  </div>
+
+  <div class="comment">
+    <img src="assets/icon2.gif" class="avatar">
+    <div class="comment-body">
+      <span class="user">ghostedagain</span>
+      <span class="time">5 hours ago</span>
+      <p>the vibe of this track is insane, been on repeat all day</p>
+    </div>
+  </div>
+
+  <div class="comment">
+    <img src="assets/icon3.gif" class="avatar">
+    <div class="comment-body">
+      <span class="user">sceneisntdead</span>
+      <span class="time">yesterday</span>
+      <p>reminds me why i fell in love with miw in the first place</p>
+    </div>
+  </div>
+
+</section>
