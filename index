@@ -41,3 +41,16 @@
     </div>
   </div>
 </section>
+<section class="profile-box">
+  <h2>About GHXST LVR NWES</h2>
+
+  <p><strong>Status:</strong> posting through the static</p>
+  <p><strong>Mood:</strong> tired but loud</p>
+  <p><strong>Currently Listening To:</strong> breakdowns + feedback</p>
+  <p><strong>Influences:</strong> warped tour, basement shows, myspace bulletins</p>
+  <p><strong>Last Login:</strong> just now</p>
+
+  <marquee behavior="scroll" direction="left">
+    emo isn't dead // support small pages // scene forever
+  </marquee>
+</section>
