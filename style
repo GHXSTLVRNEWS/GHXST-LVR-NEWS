@@ -109,3 +109,26 @@ blink {
   display: block;
   color: #eee;
 }
+.profile-box {
+  border: 2px dashed #ff0055;
+  padding: 10px;
+  margin: 15px 0;
+  background: #0d0d0d;
+  font-size: 11px;
+}
+
+.profile-box h2 {
+  color: #00ff99;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.profile-box p {
+  margin: 3px 0;
+}
+
+.profile-box marquee {
+  margin-top: 10px;
+  color: #ff0055;
+  font-size: 10px;
+}
