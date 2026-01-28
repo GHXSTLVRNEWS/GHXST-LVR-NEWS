@@ -14,3 +14,9 @@ header img {
   display: block;
   margin: 20px auto;
 }
+.article-img {
+  width: 100%;
+  max-width: 500px;
+  border: 2px solid #ff0055;
+  margin: 15px 0;
+}
