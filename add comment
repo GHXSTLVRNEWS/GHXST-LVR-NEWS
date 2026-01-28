@@ -1,0 +1,6 @@
+<div class="fake-form">
+  <p><strong>add comment:</strong></p>
+  <input type="text" placeholder="your name">
+  <textarea placeholder="leave a comment"></textarea>
+  <button>post</button>
+</div>
