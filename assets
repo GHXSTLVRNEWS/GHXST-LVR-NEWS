@@ -1,0 +1,10 @@
+ghxst-lvr-nwes/
+│
+├── index.html
+├── article.html
+├── style.css
+└── assets/
+    ├── header.gif
+    ├── divider.gif
+    ├── static.gif
+    └── miw.jpg
