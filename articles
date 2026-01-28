@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GHXST LVR NWES — Article</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <a class="back" href="index.html">← back to home</a>
+
+  <article>
+    <h1>Motionless In White drop “Afraid of the Dark”</h1>
+    <p class="date">Posted 01.28.26</p>
+
+    <p>
+      Motionless In White are officially back with “Afraid of the Dark,”
+      a track that blends haunting atmosphere with crushing riffs and raw emotion.
+      The song feels like a reminder of why MIW continues to dominate the modern
+      metalcore scene while staying true to their roots.
+    </p>
+
+    <p>
+      From eerie vocals to massive breakdowns, this release sets the tone for what
+      could be the next era of the band. If this track is any indication,
+      things are about to get loud.
+    </p>
+  </article>
+
+</div>
+
+</body>
+</html>
