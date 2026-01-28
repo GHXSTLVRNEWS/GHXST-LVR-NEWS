@@ -28,3 +28,49 @@ blink {
 @keyframes blink {
   50% { opacity: 0; }
 }
+.comments {
+  margin-top: 30px;
+  border-top: 1px dashed #444;
+  padding-top: 10px;
+}
+
+.comments h2 {
+  color: #00ff99;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.comment {
+  display: flex;
+  margin-bottom: 10px;
+  background: #0b0b0b;
+  padding: 5px;
+  border: 1px solid #222;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border: 1px solid #555;
+}
+
+.comment-body {
+  font-size: 11px;
+}
+
+.user {
+  color: #ff0055;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.time {
+  color: #666;
+  font-size: 10px;
+}
+
+.comment p {
+  margin: 5px 0 0 0;
+  color: #ddd;
+}
