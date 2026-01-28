@@ -1,0 +1,79 @@
+body {
+  background: #000;
+  color: #eee;
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background: #111;
+  border: 2px solid #ff0055;
+  padding: 15px;
+}
+
+header h1 {
+  font-family: "Courier New", monospace;
+  color: #ff0055;
+  text-shadow: 2px 2px #00ff99;
+  font-size: 42px;
+  margin-bottom: 5px;
+}
+
+.tagline {
+  color: #00ff99;
+  font-size: 12px;
+}
+
+.now-playing {
+  margin: 15px 0;
+  padding: 5px;
+  border: 1px dashed #888;
+  font-size: 12px;
+  color: #ff0055;
+}
+
+.posts h2 {
+  border-bottom: 1px solid #444;
+  padding-bottom: 5px;
+  color: #00ff99;
+}
+
+.post {
+  margin: 10px 0;
+}
+
+.post a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.post a:hover {
+  color: #ff0055;
+  text-decoration: underline;
+}
+
+.date {
+  display: block;
+  font-size: 10px;
+  color: #888;
+}
+
+article h1 {
+  color: #ff0055;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 10px;
+  color: #00ff99;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 10px;
+  text-align: center;
+  color: #666;
+}
