@@ -10,3 +10,7 @@ header img {
   border: 1px solid #444;
   margin-bottom: 5px;
 }
+.divider {
+  display: block;
+  margin: 20px auto;
+}
