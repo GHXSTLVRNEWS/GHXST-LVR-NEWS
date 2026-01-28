@@ -6,3 +6,38 @@
   <span class="date">01.28.26</span>
 </div>
 <img src="assets/divider.gif" class="divider">
+<section class="top-friends">
+  <h2>GHXST LVR NWES's Top Friends</h2>
+
+  <div class="friends-grid">
+    <div class="friend">
+      <img src="assets/friend1.gif">
+      <span>xXsceneghxstXx</span>
+    </div>
+
+    <div class="friend">
+      <img src="assets/friend2.gif">
+      <span>emos4ever</span>
+    </div>
+
+    <div class="friend">
+      <img src="assets/friend3.gif">
+      <span>deadinside</span>
+    </div>
+
+    <div class="friend">
+      <img src="assets/friend4.gif">
+      <span>riotkid</span>
+    </div>
+
+    <div class="friend">
+      <img src="assets/friend5.gif">
+      <span>ghxstlvr</span>
+    </div>
+
+    <div class="friend">
+      <img src="assets/friend6.gif">
+      <span>staticnoise</span>
+    </div>
+  </div>
+</section>
