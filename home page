@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GHXST LVR NWES</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <header>
+    <h1>GHXST LVR NWES</h1>
+    <p class="tagline">scene news // tours // chaos since forever</p>
+  </header>
+
+  <div class="now-playing">
+    ▶ now playing: static + feedback
+  </div>
+
+  <section class="posts">
+    <h2>latest posts</h2>
+
+    <div class="post">
+      <a href="article.html">
+        Motionless In White drop new track “Afraid of the Dark”
+      </a>
+      <span class="date">01.28.26</span>
+    </div>
+
+    <div class="post">
+      <a href="article.html">
+        Vans Warped Tour opens media applications
+      </a>
+      <span class="date">01.27.26</span>
+    </div>
+
+    <div class="post">
+      <a href="article.html">
+        Emo’s Not Dead Cruise proves the scene is still alive
+      </a>
+      <span class="date">01.25.26</span>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>© GHXST LVR NWES</p>
+    <p>made with love + bad html energy</p>
+  </footer>
+
+</div>
+
+</body>
+</html>
