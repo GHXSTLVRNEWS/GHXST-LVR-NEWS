@@ -3,3 +3,10 @@ header img {
   border: 2px solid #00ff99;
   margin-bottom: 10px;
 }
+.post-img {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  border: 1px solid #444;
+  margin-bottom: 5px;
+}
