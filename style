@@ -20,3 +20,11 @@ header img {
   border: 2px solid #ff0055;
   margin: 15px 0;
 }
+blink {
+  animation: blink 1s steps(1) infinite;
+  color: #00ff99;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
