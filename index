@@ -54,3 +54,94 @@
     emo isn't dead // support small pages // scene forever
   </marquee>
 </section>
+<header>
+  <img src="assets/header.gif" alt="GHXST LVR NWES">
+  <h1>GHXST LVR NWES</h1>
+  <p class="tagline">scene news // tours // chaos since forever</p>
+</header>
+
+<div class="layout">
+
+  <!-- LEFT SIDEBAR -->
+  <aside class="sidebar">
+
+    <section class="profile-box">
+      <h2>About GHXST LVR NWES</h2>
+      <p><strong>Status:</strong> posting through the static</p>
+      <p><strong>Mood:</strong> tired but loud</p>
+      <p><strong>Currently Listening To:</strong> breakdowns + feedback</p>
+      <p><strong>Last Login:</strong> just now</p>
+
+      <marquee>emo isn't dead // support small pages // scene forever</marquee>
+    </section>
+
+    <section class="top-friends">
+      <h2>Top Friends</h2>
+
+      <div class="friends-grid">
+        <div class="friend">
+          <img src="assets/friend1.gif">
+          <span>xXsceneghxstXx</span>
+        </div>
+        <div class="friend">
+          <img src="assets/friend2.gif">
+          <span>emos4ever</span>
+        </div>
+        <div class="friend">
+          <img src="assets/friend3.gif">
+          <span>deadinside</span>
+        </div>
+        <div class="friend">
+          <img src="assets/friend4.gif">
+          <span>riotkid</span>
+        </div>
+        <div class="friend">
+          <img src="assets/friend5.gif">
+          <span>ghxstlvr</span>
+        </div>
+        <div class="friend">
+          <img src="assets/friend6.gif">
+          <span>staticnoise</span>
+        </div>
+      </div>
+    </section>
+
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="content">
+
+    <div class="now-playing">
+      <img src="assets/static.gif" width="20">
+      now playing: static + feedback
+    </div>
+
+    <section class="posts">
+      <h2>latest posts</h2>
+
+      <div class="post">
+        <img src="assets/miw.jpg" class="post-img">
+        <a href="article.html">
+          Motionless In White drop “Afraid of the Dark”
+        </a>
+        <span class="date">01.28.26</span>
+      </div>
+
+      <img src="assets/divider.gif" class="divider">
+
+      <div class="post">
+        <a href="article.html">
+          Vans Warped Tour opens media applications
+        </a>
+        <span class="date">01.27.26</span>
+      </div>
+
+    </section>
+
+  </main>
+
+</div>
+
+<footer>
+  <p>© GHXST LVR NWES — scene forever</p>
+</footer>
