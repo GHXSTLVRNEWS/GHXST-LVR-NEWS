@@ -77,3 +77,6 @@ footer {
   text-align: center;
   color: #666;
 }
+.friend img:hover {
+  box-shadow: 0 0 8px #ff0055;
+}
